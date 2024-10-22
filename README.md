@@ -1,4 +1,4 @@
-<a href="https://akshat0502.github.io/FaceBook_Clone/" style="text-decoration: none;"><b>FaceBook Clone</b></a>
+<a href="https://akshat0502.github.io/FaceBook-Clone/" style="text-decoration: none;"><b>FaceBook Clone</b></a>
     <br><br>
     <p>For a <b>FaceBook Clone</b> using <b>HTML</b> and <b>CSS</b> the focus will be on replicating the <b>user interface (UI)</b> of Facebook without backend functionality or dynamic features. This project will include essential components like the <b>navigation bar, profile section, news feed, posts,</b> and <b>sidebars</b> (for friend suggestions, etc.), and will focus on the layout and styling.</p>
     <br>
